@@ -1,4 +1,4 @@
-.node_modules/
+/node_modules/
 
 # Ignorer les dépendances Composer
 vendor/
